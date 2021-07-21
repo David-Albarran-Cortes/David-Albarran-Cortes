@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Acerca de mí**
+
+- Edad: 21 años
+- Habilidades: PHP,laravel, HTML , CSS y JS
+
+___
+
