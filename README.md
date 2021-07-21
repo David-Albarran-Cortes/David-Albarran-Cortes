@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 **Acerca de mí**
 
 - Edad: 21 años
@@ -21,3 +22,6 @@ Here are some ideas to get you started:
 
 ___
 
+ 
+  
+  
